@@ -13,4 +13,4 @@
 
 5. Now we can create folders for work
 6. We need to create requirements.txt file to download/install all the packages
-7. Add .gitignore file to skip sensitive files data
+7. Add .gitignore file to skip sensitive files data to merge in git repository
