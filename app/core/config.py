@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     groq_api_key:str=""
     tavily_api_key:str=""
     pinecone_api_key:str=""
+    Huggingfacehub_api_token:str=""
     pinecone_index_name:str="industry-agentic-rag-kb"
     pinecone_namespace:str="langgraph-agentic-rag"
     embedding_model:str="sentence-transformers/all-MiniLM-L6-v2"
